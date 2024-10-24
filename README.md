@@ -27,3 +27,5 @@ Crea un nuevo commit con los cambios en el área de preparación y un mensaje de
 5. **git push origin main**
 Envía los commits locales de la rama main al repositorio remoto llamado origin.
 
+![image](https://github.com/user-attachments/assets/87d8af26-521d-4592-a82f-b3e0c9a6c796)
+
